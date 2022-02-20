@@ -242,6 +242,6 @@ jobs:
         omitName: true
         replacesArtifacts: false
         draft: false
-        prerelease: false
+        prerelease: true
         tag: ${{env.BUILD_VERSION}}
         token: ${{ secrets.GITHUB_TOKEN }}
