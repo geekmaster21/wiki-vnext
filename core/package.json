@@ -119,7 +119,7 @@
     "sanitize-filename": "1.6.3",
     "semver": "7.3.5",
     "sharp": "0.29.3",
-    "simple-git": "2.48.0",
+    "simple-git": "3.5.0",
     "ssh2": "1.5.0",
     "ssh2-promise": "1.0.2",
     "striptags": "3.2.0",
