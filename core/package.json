@@ -118,7 +118,7 @@
     "safe-regex": "2.1.1",
     "sanitize-filename": "1.6.3",
     "semver": "7.3.5",
-    "sharp": "0.29.3",
+    "sharp": "0.30.5",
     "simple-git": "2.48.0",
     "ssh2": "1.5.0",
     "ssh2-promise": "1.0.2",
