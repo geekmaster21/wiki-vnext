@@ -48,7 +48,7 @@
     "js-cookie": "3.0.1",
     "jwt-decode": "3.1.2",
     "lodash": "4.17.21",
-    "luxon": "2.3.0",
+    "luxon": "2.5.2",
     "pug": "3.0.2",
     "quasar": "2.5.3",
     "semver": "7.3.5",
